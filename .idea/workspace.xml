@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d342c260-09b8-4a0f-ad10-5a93952b8f4b" name="Changes" comment="programming exercise 7 done">
-      <change afterPath="$PROJECT_DIR$/src/chapter1/exercises/PE8.java" afterDir="false" />
+    <list default="true" id="d342c260-09b8-4a0f-ad10-5a93952b8f4b" name="Changes" comment="programming exercise 8 done">
+      <change afterPath="$PROJECT_DIR$/src/chapter1/exercises/PE9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +44,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PE8">
-    <configuration name="PE4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.exercises.PE4" />
-      <module name="JavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter1.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PE9">
     <configuration name="PE5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.exercises.PE5" />
       <module name="JavaLearning" />
@@ -110,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PE9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.exercises.PE9" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter1.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PE9" />
         <item itemvalue="Application.PE8" />
         <item itemvalue="Application.PE7" />
         <item itemvalue="Application.PE6" />
         <item itemvalue="Application.PE5" />
-        <item itemvalue="Application.PE4" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724107506145</updated>
-      <workItem from="1724107507443" duration="3190000" />
+      <workItem from="1724107507443" duration="3480000" />
     </task>
     <task id="LOCAL-00001" summary="Learning started">
       <created>1724107918858</created>
@@ -228,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724110586658</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="programming exercise 8 done">
+      <created>1724110806161</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724110806161</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +267,7 @@
     <MESSAGE value="programming exercise 5 done" />
     <MESSAGE value="programming exercise 6 done" />
     <MESSAGE value="programming exercise 7 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="programming exercise 7 done" />
+    <MESSAGE value="programming exercise 8 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="programming exercise 8 done" />
   </component>
 </project>
