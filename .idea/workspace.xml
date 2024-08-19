@@ -45,13 +45,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PE1">
-    <configuration name="ComputeExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.examples.ComputeExpression" />
+  <component name="RunManager" selected="Application.PE2">
+    <configuration name="PE1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.exercises.PE1" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.examples.*" />
+          <option name="PATTERN" value="chapter1.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PE1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.exercises.PE1" />
+    <configuration name="PE2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.exercises.PE2" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PE2" />
         <item itemvalue="Application.PE1" />
         <item itemvalue="Application.ShowLogicErrors" />
         <item itemvalue="Application.Welcome" />
         <item itemvalue="Application.ShowRuntimeErrors" />
-        <item itemvalue="Application.ComputeExpression" />
       </list>
     </recent_temporary>
   </component>
