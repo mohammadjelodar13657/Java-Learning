@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d342c260-09b8-4a0f-ad10-5a93952b8f4b" name="Changes" comment="programming exercise 3 done">
-      <change afterPath="$PROJECT_DIR$/src/chapter1/exercises/PE4.java" afterDir="false" />
+    <list default="true" id="d342c260-09b8-4a0f-ad10-5a93952b8f4b" name="Changes" comment="programming exercise 4 done">
+      <change afterPath="$PROJECT_DIR$/src/chapter1/exercises/PE5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PE4">
+  <component name="RunManager" selected="Application.PE5">
     <configuration name="PE1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.exercises.PE1" />
       <module name="JavaLearning" />
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowLogicErrors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.examples.ShowLogicErrors" />
+    <configuration name="PE5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.exercises.PE5" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.examples.*" />
+          <option name="PATTERN" value="chapter1.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PE5" />
         <item itemvalue="Application.PE4" />
         <item itemvalue="Application.PE3" />
         <item itemvalue="Application.PE2" />
         <item itemvalue="Application.PE1" />
-        <item itemvalue="Application.ShowLogicErrors" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724107506145</updated>
-      <workItem from="1724107507443" duration="2403000" />
+      <workItem from="1724107507443" duration="2565000" />
     </task>
     <task id="LOCAL-00001" summary="Learning started">
       <created>1724107918858</created>
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724109608664</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="programming exercise 4 done">
+      <created>1724109950495</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724109950495</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +235,7 @@
     <MESSAGE value="programming exercise 1 done" />
     <MESSAGE value="programming exercise 2 done" />
     <MESSAGE value="programming exercise 3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="programming exercise 3 done" />
+    <MESSAGE value="programming exercise 4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="programming exercise 4 done" />
   </component>
 </project>
