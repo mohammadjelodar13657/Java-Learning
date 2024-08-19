@@ -44,7 +44,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ComputeExpression">
+  <component name="RunManager" selected="Application.Welcome">
     <configuration name="ComputeExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.examples.ComputeExpression" />
       <module name="JavaLearning" />
@@ -93,9 +93,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Welcome" />
         <item itemvalue="Application.ComputeExpression" />
         <item itemvalue="Application.WelcomeWithThreeMessages" />
-        <item itemvalue="Application.Welcome" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
